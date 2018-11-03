@@ -15,6 +15,7 @@ gem 'devise', '~> 4.5'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'jquery-rails'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem "loofah", ">= 2.2.3"
 
 group :development, :test do
 
